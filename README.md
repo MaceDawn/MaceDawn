@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaceDawn
+- 👋 Hi, I’m @Sir.Geoffrey
 - 👀 I’m interested in coding and anything that has to do with self improvement
 - 🌱 I’m currently learning Ballerina 
 - 💞️ I’m looking to collaborate on anything programming related :)
